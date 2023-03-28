@@ -13,11 +13,51 @@
       "url": "https://twitter.com/AtticusThomson",
       "icon": "twitter"
     },
+    {
+      "title": "YouTube",
+      "url": "https://www.youtube.com/channel/UCrRp75oHZx6HISQJvRKLDWA",
+      "icon": "youtube"
+    },
 
     {
       "title": "Instagram",
       "url": "https://www.instagram.com/atticusat/",
       "icon": "instagram"
+    },
+
+    {
+      "title": "TikTok",
+      "url": "https://www.tiktok.com/@atticuscus",
+      "icon": "tiktok"
+    },
+
+    {
+      "title": "Oriel Auto-Ranker",
+      "url": "https://chrome.google.com/webstore/detail/oriel-auto-ranker/jebdphfeifjcbobfofijnjmfdpfekhmn",
+      "icon": "click"
+    },
+
+    {
+      "title": "Works In Progress",
+      "url": "https://worksinprogress.io",
+      "icon": "click"
+    },
+
+    {
+      "title": "My Neighbours",
+      "url": "https://MyNeighbours.net",
+      "icon": "click"
+    },
+    {
+      "title": "FlashNotez",
+      "url": "https://www.flashnotez.com/",
+      "icon": "click"
+    },
+
+    {
+      "title": "StudentQ",
+      "url": "https://studentq.co.uk/register.php",
+      "icon": "click"
     }
   ]
 }
