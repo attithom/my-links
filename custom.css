@@ -66,7 +66,7 @@
 }
 
 /* Oriel */
-#root-container > div > div > div > div.ld-mt-32 > div:nth-child(6)::after {
+#root-container > div > div > div > div.ld-mt-32 > div:nth-child(7)::after {
   content: "A chrome extension to let final year medical students automatically rank their first year job preferences. Used and highly praised by over 300 students in the 2023 application cycle.";
   color: #334155;
   line-height: 1.4;
@@ -80,7 +80,7 @@
 }
 
 /* WIP */
-#root-container > div > div > div > div.ld-mt-32 > div:nth-child(6)::after {
+#root-container > div > div > div > div.ld-mt-32 > div:nth-child(8)::after {
   content: "A platform for companies to provide public-facing pages for their projects.";
   color: #334155;
   line-height: 1.4;
@@ -94,7 +94,7 @@
 }
 
 /* MyNeighbours */
-#root-container > div > div > div > div.ld-mt-32 > div:nth-child(6)::after {
+#root-container > div > div > div > div.ld-mt-32 > div:nth-child(9)::after {
   content: "A website that allows hyper-local sharing of information within a community, kind of like a digital notice board for a building.";
   color: #334155;
   line-height: 1.4;
@@ -108,7 +108,7 @@
 }
 
 /* FlashNotez */
-#root-container > div > div > div > div.ld-mt-32 > div:nth-child(6)::after {
+#root-container > div > div > div > div.ld-mt-32 > div:nth-child(10)::after {
   content: "A tool that allows users to create cloze flashcards with ease (in progress).";
   color: #334155;
   line-height: 1.4;
@@ -122,7 +122,7 @@
 }
 
 /* StudentQ */
-#root-container > div > div > div > div.ld-mt-32 > div:nth-child(6)::after {
+#root-container > div > div > div > div.ld-mt-32 > div:nth-child(11)::after {
   content: "My first ever project, a website providing grouped forums on subjects for students to ask questions and get answers from experts.";
   color: #334155;
   line-height: 1.4;
