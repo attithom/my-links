@@ -31,17 +31,21 @@
     },
 
     {
+      "title": "HowToRefer",
+      "url": "https://howtorefer.com",
+      "icon": "click"
+    },
+
+    {
       "title": "Oriel Auto-Ranker",
       "url": "https://chrome.google.com/webstore/detail/oriel-auto-ranker/jebdphfeifjcbobfofijnjmfdpfekhmn",
-      "icon": "click",
-      "description": "A chrome extension to let final year medical students automatically rank their first year job preferences. Used and highly praised by over 300 students in the 2023 application cycle."
+      "icon": "click"
     },
 
     {
       "title": "Works In Progress",
       "url": "https://worksinprogress.io",
-      "icon": "click",
-      "description": "A platform for companies to provide public-facing pages for their projects."
+      "icon": "click"
     },
 
     {

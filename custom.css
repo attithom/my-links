@@ -51,15 +51,86 @@
   opacity: 0;
 }
 
-#root-container > div > div > div > div.ld-mt-32 {
-  position: relative;
+/* HowToRefer */
+#root-container > div > div > div > div.ld-mt-32 > div:nth-child(6)::after {
+  content: "A website providing a simple directory for hospitals to unify their fragmented referral pathways.";
+  color: #334155;
+  line-height: 1.4;
+  display: block;
+  padding: 15px 15px 15px 15px;
+  margin-bottom: 30px;
+  margin-top: -10px;
+  background-color: #f1f5f9;
+  border-radius: 5px 5px 13px 13px;
+  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
 }
 
+/* Oriel */
 #root-container > div > div > div > div.ld-mt-32 > div:nth-child(6)::after {
-  content: "Test";
-  vertical-align: text-top;
-  position: absolute;
-  top: 65px;
-  left: 15px;
-  color: #475569;
+  content: "A chrome extension to let final year medical students automatically rank their first year job preferences. Used and highly praised by over 300 students in the 2023 application cycle.";
+  color: #334155;
+  line-height: 1.4;
+  display: block;
+  padding: 15px 15px 15px 15px;
+  margin-bottom: 30px;
+  margin-top: -10px;
+  background-color: #f1f5f9;
+  border-radius: 5px 5px 13px 13px;
+  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+}
+
+/* WIP */
+#root-container > div > div > div > div.ld-mt-32 > div:nth-child(6)::after {
+  content: "A platform for companies to provide public-facing pages for their projects.";
+  color: #334155;
+  line-height: 1.4;
+  display: block;
+  padding: 15px 15px 15px 15px;
+  margin-bottom: 30px;
+  margin-top: -10px;
+  background-color: #f1f5f9;
+  border-radius: 5px 5px 13px 13px;
+  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+}
+
+/* MyNeighbours */
+#root-container > div > div > div > div.ld-mt-32 > div:nth-child(6)::after {
+  content: "A website that allows hyper-local sharing of information within a community, kind of like a digital notice board for a building.";
+  color: #334155;
+  line-height: 1.4;
+  display: block;
+  padding: 15px 15px 15px 15px;
+  margin-bottom: 30px;
+  margin-top: -10px;
+  background-color: #f1f5f9;
+  border-radius: 5px 5px 13px 13px;
+  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+}
+
+/* FlashNotez */
+#root-container > div > div > div > div.ld-mt-32 > div:nth-child(6)::after {
+  content: "A tool that allows users to create cloze flashcards with ease (in progress).";
+  color: #334155;
+  line-height: 1.4;
+  display: block;
+  padding: 15px 15px 15px 15px;
+  margin-bottom: 30px;
+  margin-top: -10px;
+  background-color: #f1f5f9;
+  border-radius: 5px 5px 13px 13px;
+  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+}
+
+/* StudentQ */
+#root-container > div > div > div > div.ld-mt-32 > div:nth-child(6)::after {
+  content: "My first ever project, a website providing grouped forums on subjects for students to ask questions and get answers from experts.";
+  color: #334155;
+  line-height: 1.4;
+  display: block;
+  padding: 15px 15px 15px 15px;
+  margin-bottom: 30px;
+  margin-top: -10px;
+  background-color: #f1f5f9;
+  border-radius: 5px 5px 13px 13px;
+  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
 }
