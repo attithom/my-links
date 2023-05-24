@@ -9,6 +9,11 @@
       "icon": "github"
     },
     {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/atticus-thomson-b2595a195/",
+      "icon": "linkedin"
+    },
+    {
       "title": "Twitter",
       "url": "https://twitter.com/AtticusThomson",
       "icon": "twitter"
@@ -26,21 +31,17 @@
     },
 
     {
-      "title": "TikTok",
-      "url": "https://www.tiktok.com/@atticuscus",
-      "icon": "tiktok"
-    },
-
-    {
       "title": "Oriel Auto-Ranker",
       "url": "https://chrome.google.com/webstore/detail/oriel-auto-ranker/jebdphfeifjcbobfofijnjmfdpfekhmn",
-      "icon": "click"
+      "icon": "click",
+      "description": "A chrome extension to let final year medical students automatically rank their first year job preferences. Used and highly praised by over 300 students in the 2023 application cycle."
     },
 
     {
       "title": "Works In Progress",
       "url": "https://worksinprogress.io",
-      "icon": "click"
+      "icon": "click",
+      "description": "A platform for companies to provide public-facing pages for their projects."
     },
 
     {

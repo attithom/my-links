@@ -20,6 +20,10 @@
   color: #fff;
 }
 
+.ld-custom-button-container:has(::after) {
+  margin-bottom: 50px;
+}
+
 .ld-custom-button-container:hover {
   -webkit-transform: scale(1.02);
   -ms-transform: scale(1.02);
@@ -45,4 +49,17 @@
 
 .revision {
   opacity: 0;
+}
+
+#root-container > div > div > div > div.ld-mt-32 {
+  position: relative;
+}
+
+#root-container > div > div > div > div.ld-mt-32 > div:nth-child(6)::after {
+  content: "Test";
+  vertical-align: text-top;
+  position: absolute;
+  top: 65px;
+  left: 15px;
+  color: #475569;
 }
