@@ -51,9 +51,13 @@
   opacity: 0;
 }
 
+:root {
+  --how-to-refer: "A website providing a simple directory for hospitals to unify their fragmented referral pathways.";
+}
+
 /* HowToRefer */
 #root-container > div > div > div > div.ld-mt-32 > div:nth-child(6)::after {
-  content: "A website providing a simple directory for hospitals to unify their fragmented referral pathways.";
+  content: var(--how-to-refer);
   color: #334155;
   line-height: 1.4;
   display: block;
